@@ -1,0 +1,21 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "Teoría de Memoria",
+  "keywords": [
+    "Memory"
+  ],
+  "license": "ISC",
+  "author": "dguerra",
+  "type": "commonjs",
+  "main": "etl.js",
+  "scripts": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5"
+  },
+  "dependencies": {
+    "node": "^26.12.0"
+  }
+}

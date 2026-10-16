@@ -7,3 +7,4 @@ parentPort.once("message", ({ iterations }) => {
         message: 'El event loop estuvo bloqueado durante la tarea pesada de CPU'
     });
 });
+

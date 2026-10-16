@@ -1,0 +1,18 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "Balancer in nodeJS",
+  "license": "ISC",
+  "author": "dguerra",
+  "type": "commonjs",
+  "main": "balancer.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "net": "^1.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5"
+  }
+}
